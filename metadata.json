@@ -1,0 +1,6 @@
+{
+  "name": "نقاط الحرب",
+  "description": "لعبة نقاط الحرب الملحمية المستوحاة من ماينكرافت وفورتنايت بالمنظور الأول والثالث وبناء الحصون والقتال مع الأصدقاء عبر بلوتوث ونقاط الاتصال المشتركة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
